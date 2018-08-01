@@ -1,0 +1,29 @@
+.body {
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+.remove-padding {
+  padding: 0;
+}
+
+.text-tituloCard {
+  font-weight: bold;
+}
+
+.custom-container {
+  border: 1px solid #c0c0c0;
+  padding-left: 15px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.custom-containerTitulo {
+  background: #e5e5e5;
+  text-align: left;
+  font-weight: bold;
+}
+
+.text-destalle {
+  text-align: left;
+  font-size: 14px;
+}
